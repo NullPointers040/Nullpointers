@@ -1,0 +1,7 @@
+groq
+flask
+streamlit
+langchain
+langchain_community
+PyPDF
+langchain-openai
