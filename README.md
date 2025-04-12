@@ -58,7 +58,3 @@ WEATHER_API_KEY=your_openweather_api_key
 
 Built by NullPointers team.
 Designed for personalized and intelligent travel planning.
-
-The Results:
-
-
