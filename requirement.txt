@@ -1,7 +1,9 @@
-groq
-flask
 streamlit
-langchain
-langchain_community
-PyPDF
-langchain-openai
+requests
+re
+google-generativeai
+groq
+python-dotenv
+sqlite3
+uuid
+hashlib
